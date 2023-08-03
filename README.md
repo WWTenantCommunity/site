@@ -17,4 +17,4 @@ The purposes of this site are to serve as a central repository for WWTC document
 
 # Pages
 
-[Documents](WW%20Tenant%20Community%20Council%20Site%209936cc363ad24a5796c22518c70f6350/Documents%20f57ba6fde11648119149633a3024f170.csv)
+[Documents](site/docs/DocsList)
