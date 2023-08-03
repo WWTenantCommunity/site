@@ -17,4 +17,4 @@ The purposes of this site are to serve as a central repository for WWTC document
 
 # Pages
 
-[Documents](https://github.com/WWTenantCommunity/site/main/docs/docslist/dist/index.html)
+[Documents](https:///WWTenantCommunity.github.io/site/main/docs/docslist/dist/index.html)
